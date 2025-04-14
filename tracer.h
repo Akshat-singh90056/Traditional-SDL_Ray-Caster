@@ -18,6 +18,7 @@ public:
     void renderMap();
     void usingMouse();
     void rayCaster();
+    bool isWall(float x ,float y,float radius);
     void update();
     void clean();
     bool running()
