@@ -42,22 +42,22 @@ make
 ```
   2. Compile the project:
 
-     ```bash
+ ```bash
      make
 
-     ```
+ ```
 
   3. Run the raycaster:
 
-     ```bash
+  ```bash
 
      ./raycaster
 
-     ```
+  ```
 
   # 🗂️ Project Structure
 
-   ```bash
+  ```bash
 
   Traditional-SDL_Ray-Caster/
 ├── main.cpp           # Entry point and main SDL loop
@@ -66,7 +66,7 @@ make
 ├── makefile           # Build automation
 └── .vscode/           # Optional editor config (for VS Code)
 
-```
+  ```
 ## 🎮 Controls :
 
    1. W & S Keys – Move forward/backward 
@@ -102,6 +102,25 @@ Here’s a live snapshot of the ray casting engine in action:
 
 
 
+
+## 🙏 Thanks for Reading :
+
+This project is a foundational exploration into classic ray casting using SDL3 — a technique that powered the earliest first-person engines and continues to inspire graphics programming to this day.
+
+If you find this useful, interesting, or nostalgic — feel free to 🌟 star the repository or fork it for your own experiments.
+
+> “From old roots grow new engines.”
+
+### 💬 Feedback & Contributions Welcome
+
+Have ideas? Found a bug? Want to collaborate on extensions like texture mapping, sprite rendering, or maze generation?
+
+Open an issue or a pull request — let’s build something great, the old-school way.
+
+—
+
+With gratitude,  
+**Akshat Singh**
 
 
 
