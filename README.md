@@ -1,25 +1,25 @@
-# 🎯 Traditional SDL Ray Caster
+#  Traditional SDL Ray Caster
 
 A low-level, traditional ray casting engine built in **C++** using **SDL3**. This project is a homage to the early days of 3D rendering, showcasing the principles behind games like *Wolfenstein 3D* and *DOOM*. It renders a pseudo-3D environment using efficient 2D mathematics and a handcrafted graphics pipeline.
 
 ---
 
-## 🧩 Features
+##  Features
 
-- 🧠 Ray casting engine implemented from scratch  
-- 🎮 Real-time rendering with **SDL3**  
-- 🧱 2D grid-based level system  
-- 🛠️ Lightweight and modular C++ code  
-- 🧭 Keyboard-based navigation and interaction  
-- 💡 Designed for learning graphics fundamentals  
+-  Ray casting engine implemented from scratch  
+-  Real-time rendering with **SDL3**  
+-  2D grid-based level system  
+-  Lightweight and modular C++ code  
+-  Keyboard-based navigation and interaction  
+-  Designed for learning graphics fundamentals  
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
-### 🧰 Prerequisites
+###  Prerequisites
 
-## 🚀 Installation
+##  Installation
 
 Run the following commands:
 
@@ -31,7 +31,7 @@ make
 
 
 ```
-# 🧱 Build & Run :
+#  Build & Run :
  1. Clone the repository:
 
   ```bash
@@ -55,7 +55,7 @@ make
 
   ```
 
-  # 🗂️ Project Structure
+  #  Project Structure
 
   ```bash
 
@@ -67,12 +67,12 @@ make
 └── .vscode/           # Optional editor config (for VS Code)
 
   ```
-## 🎮 Controls :
+##  Controls :
 
    1. W & S Keys – Move forward/backward 
    2. Mouse courser - to give direction to the ray
 
-# 🔍 Understanding Ray Casting:
+#  Understanding Ray Casting:
 
  Ray casting simulates a 3D environment using 2D mathematics:
 
@@ -87,7 +87,7 @@ make
   5. It was the backbone of early FPS engines and remains a powerful educational tool.
 
 
-## 🖼️ Screenshot
+##  Screenshot
 
 Here’s a live snapshot of the ray casting engine in action:
 
@@ -103,15 +103,15 @@ Here’s a live snapshot of the ray casting engine in action:
 
 
 
-## 🙏 Thanks for Reading :
+##  Thanks for Reading :
 
 This project is a foundational exploration into classic ray casting using SDL3 — a technique that powered the earliest first-person engines and continues to inspire graphics programming to this day.
 
-If you find this useful, interesting, or nostalgic — feel free to 🌟 star the repository or fork it for your own experiments.
+If you find this useful, interesting, or nostalgic — feel free to  star the repository or fork it for your own experiments.
 
 > “From old roots grow new engines.”
 
-### 💬 Feedback & Contributions Welcome
+###  Feedback & Contributions Welcome
 
 Have ideas? Found a bug? Want to collaborate on extensions like texture mapping, sprite rendering, or maze generation?
 
